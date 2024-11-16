@@ -12,6 +12,7 @@ public class Chair {
 		public void setColor(String color) {
 			this.color = color;
 		}
+
 		public String getSize() {
 			return size;
 		}
